@@ -48,7 +48,13 @@ The Eclipse Veil License (EVL) is designed for developers who want to:
 This license is suitable for personal, educational, nonprofit, and open collaborative projects.
 
 ---
+## Instalation
 
+Using Npm Chekcout On [here](https://www.npmjs.com/package/eclipse-veil-license)
+
+```shell
+npm i eclipse-veil-license
+```
 ## Key Terms (Summary)
 
 - Free to use, study, and modify  
