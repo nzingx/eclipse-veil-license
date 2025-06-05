@@ -6,49 +6,56 @@ Copyright (c) 2025 nzingx
 
 ## Preamble
 
-By using this software ("Software"), you agree to be bound by the terms of this license. This license is designed to grant freedom to use, modify, and distribute the Software free of charge, while preserving the original author's copyright and control over commercial distribution and unauthorized usage.
+This license grants permission to use, modify, and distribute the Software free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
 
 ---
 
 ## License Terms
 
-1. Usage Rights  
-License holders are granted the right to use, copy, and modify this Software freely and at no cost.
+1. **Usage Rights**  
+You are granted the right to use, copy, and modify this Software freely and without cost, for **non-commercial** purposes.
 
-2. Prohibition of Commercial Distribution  
-Distribution or usage of this Software for commercial purposes—including but not limited to selling, leasing, sublicensing, or gaining profit directly or indirectly—is **strictly prohibited**.
+2. **Definition of Commercial Use**  
+"Commercial use" includes, but is not limited to: selling, licensing, leasing, or bundling this Software with paid products or services; or using it in any business, corporate, or revenue-generating context.  
+> ❗ Voluntary donations to support development are allowed, provided access to the Software remains free and unrestricted.
 
-3. Mandatory Free Distribution  
-Any form of distribution, whether of the original or modified versions of the Software, must be provided **entirely free of charge** to the recipient.
+3. **Prohibition of Commercial Distribution**  
+Use or distribution of this Software, or derivative works thereof, for commercial gain—directly or indirectly—is **strictly prohibited** unless express, written permission is granted by the original author.
 
-4. Required Attribution  
-All distributions, whether of the original or derivative versions, must include the following attribution statement clearly and prominently:
+4. **Mandatory Free Distribution**  
+Any distribution of this Software, whether original or modified, must be provided **entirely free of charge** to all recipients, including in public repositories (e.g., GitHub, GitLab).
+
+5. **Attribution Requirement**  
+All public distributions must include the following clear and visible attribution:
 
 > "Original work by nzingx – Licensed under Eclipse Veil License v1.0"
 
-5. Documentation Obligation  
-Derivative distributions must include documentation outlining the changes made to the original Software, so recipients can understand what modifications have been made.
+6. **Modification Disclosure**  
+If you distribute modified versions, you must include a changelog or documentation explaining the modifications made.
 
-6. No Warranty  
-The Software is provided "as is", without any warranty, express or implied. The author shall not be held responsible for damages, data loss, or any other harm arising from the use of this Software.
+7. **License Termination**  
+Violation of any of these terms results in the **automatic termination** of your rights under this license, effective immediately and without notice.
 
-7. License Termination  
-Violation of any terms of this license will result in the immediate and automatic termination of the user's rights to the Software, without prior notice.
+8. **Intellectual Property**  
+All intellectual property rights remain with the original author. This license does not transfer ownership or confer any trademark rights. Unauthorized commercial use may result in legal action.
 
-8. Intellectual Property and Confidentiality  
-All intellectual property rights related to the Software and its documentation remain the exclusive property of the original author. Unauthorized use may lead to legal action.
+9. **Limitation of Liability**  
+The Software is provided "as is", without warranty of any kind. The author shall not be liable for any damages or liabilities arising from its use or misuse.
 
-9. Limitation of Liability  
-The author is not liable for any claims, damages, or other liabilities arising from the use, distribution, or modification of this Software by third parties.
+10. **Governing Law**  
+This license shall be governed by and interpreted in accordance with the laws applicable in the jurisdiction of the original author (nzingx), unless otherwise agreed in writing.
 
-10. Governing Law  
-This license is governed and interpreted under the laws applicable in the region of the license creator.
+---
+
+## Classification
+
+This is a **source-available**, **non-commercial license**. It does **not** meet the criteria of Open Source as defined by the Open Source Initiative (OSI), due to its commercial use restriction.
 
 ---
 
 ## Final Statement
 
-By using this Software, you explicitly acknowledge that you have read, understood, and agreed to be bound by the terms of the Eclipse Veil License v1.0.
+By using this Software, you confirm that you have read, understood, and agree to comply with the terms of the Eclipse Veil License v1.0.
 
 ---
 
