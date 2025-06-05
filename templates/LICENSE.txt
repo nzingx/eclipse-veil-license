@@ -1,0 +1,63 @@
+# Eclipse Veil License v1.0
+
+Copyright (c) [year] [Your Name or Organization]
+
+---
+
+## Preamble
+
+This license grants permission to use, modify, and distribute the Software free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
+
+---
+
+## License Terms
+
+1. **Usage Rights**  
+You are granted the right to use, copy, and modify this Software freely and without cost, for **non-commercial** purposes.
+
+2. **Definition of Commercial Use**  
+"Commercial use" includes, but is not limited to: selling, licensing, leasing, or bundling this Software with paid products or services; or using it in any business, corporate, or revenue-generating context.  
+> [!NOTE]  
+> Voluntary donations to support development are allowed, provided access to the Software remains free and unrestricted.
+
+3. **Prohibition of Commercial Distribution**  
+Use or distribution of this Software, or derivative works thereof, for commercial gain—directly or indirectly—is **strictly prohibited** unless express, written permission is granted by the original author.
+
+4. **Mandatory Free Distribution**  
+Any distribution of this Software, whether original or modified, must be provided **entirely free of charge** to all recipients, including in public repositories (e.g., GitHub, GitLab).
+
+5. **Attribution Requirement**  
+All public distributions must include the following clear and visible attribution:
+
+> "Original work by [Your Name or Organization] – Licensed under Eclipse Veil License v1.0"
+
+6. **Modification Disclosure**  
+If you distribute modified versions, you must include a changelog or documentation explaining the modifications made.
+
+7. **License Termination**  
+Violation of any of these terms results in the **automatic termination** of your rights under this license, effective immediately and without notice.
+
+8. **Intellectual Property**  
+All intellectual property rights remain with the original author. This license does not transfer ownership or confer any trademark rights. Unauthorized commercial use may result in legal action.
+
+9. **Limitation of Liability**  
+The Software is provided "as is", without warranty of any kind. The author shall not be liable for any damages or liabilities arising from its use or misuse.
+
+10. **Governing Law**  
+This license shall be governed by and interpreted in accordance with the laws applicable in the jurisdiction of the original author, unless otherwise agreed in writing.
+
+---
+
+## Classification
+
+This is a **source-available**, **non-commercial license**. It does **not** meet the criteria of Open Source as defined by the [Open Source Initiative](https://opensource.org/osd), due to its commercial use restriction.
+
+---
+
+## Final Statement
+
+By using this Software, you confirm that you have read, understood, and agree to comply with the terms of the Eclipse Veil License v1.0.
+
+---
+
+© [year] [Your Name or Organization]. All rights reserved.
