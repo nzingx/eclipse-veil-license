@@ -1,0 +1,67 @@
+{
+  "name": "eclipse-veil-license",
+  "version": "1.0.0",
+  "description": "A source-available, non-commercial license template designed to protect software from unauthorized monetization while allowing free use, modification, and distribution.",
+  "keywords": [
+    "license",
+    "open-source",
+    "non-commercial",
+    "source-available",
+    "software-license",
+    "custom-license",
+    "open-collaboration",
+    "license-template",
+    "no-commercial-use",
+    "nonprofit",
+    "freely-distributed",
+    "attribution-required",
+    "distribution-policy",
+    "ethical-software",
+    "copyleft-inspired"
+  ],
+  "homepage": "https://github.com/nzingx/eclipse-veil-license#readme",
+  "bugs": {
+    "url": "https://github.com/nzingx/eclipse-veil-license/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzingx/eclipse-veil-license.git"
+  },
+  "license": "ISC",
+  "author": "nzingx",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "evl": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",
+    "commit": "cz"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "lib/",
+    "LICENSE.txt",
+    "README.md"
+  ],
+  "devDependencies": {
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "jest": "^29.7.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "inquirer": "^12.6.3"
+  }
+}

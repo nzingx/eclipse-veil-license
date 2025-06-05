@@ -1,12 +1,12 @@
 # Eclipse Veil License v1.0
 
-Copyright (c) [year] [Your Name or Organization]
+Copyright (c) {{year}} {{author}}{{projectBlock}}
 
 ---
 
 ## Preamble
 
-This license grants permission to use, modify, and distribute the Software free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
+This license grants permission to use, modify, and distribute the Software{{projectText}} free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
 
 ---
 
@@ -29,7 +29,7 @@ Any distribution of this Software, whether original or modified, must be provide
 5. **Attribution Requirement**  
 All public distributions must include the following clear and visible attribution:
 
-> "Original work by [Your Name or Organization] – Licensed under Eclipse Veil License v1.0"
+> "Original work by {{author}}{{projectAttribution}} – Licensed under Eclipse Veil License v1.0"
 
 6. **Modification Disclosure**  
 If you distribute modified versions, you must include a changelog or documentation explaining the modifications made.
@@ -60,4 +60,4 @@ By using this Software, you confirm that you have read, understood, and agree to
 
 ---
 
-© [year] [Your Name or Organization]. All rights reserved.
+© {{year}} {{author}}{{projectBlock}}. All rights reserved.

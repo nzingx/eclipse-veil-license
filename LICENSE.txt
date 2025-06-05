@@ -1,12 +1,12 @@
 # Eclipse Veil License v1.0
 
-Copyright (c) 2025 nzingx
+Copyright (c) 2025 nginz for the project "eclipse-veil-license"
 
 ---
 
 ## Preamble
 
-This license grants permission to use, modify, and distribute the Software free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
+This license grants permission to use, modify, and distribute the Software (specifically the "eclipse-veil-license" project) free of charge for non-commercial purposes. It ensures that the author’s work remains freely available and protected from unauthorized commercial exploitation. By using this Software ("Software"), you agree to the following terms.
 
 ---
 
@@ -17,7 +17,8 @@ You are granted the right to use, copy, and modify this Software freely and with
 
 2. **Definition of Commercial Use**  
 "Commercial use" includes, but is not limited to: selling, licensing, leasing, or bundling this Software with paid products or services; or using it in any business, corporate, or revenue-generating context.  
-> ❗ Voluntary donations to support development are allowed, provided access to the Software remains free and unrestricted.
+> [!NOTE]  
+> Voluntary donations to support development are allowed, provided access to the Software remains free and unrestricted.
 
 3. **Prohibition of Commercial Distribution**  
 Use or distribution of this Software, or derivative works thereof, for commercial gain—directly or indirectly—is **strictly prohibited** unless express, written permission is granted by the original author.
@@ -28,7 +29,7 @@ Any distribution of this Software, whether original or modified, must be provide
 5. **Attribution Requirement**  
 All public distributions must include the following clear and visible attribution:
 
-> "Original work by nzingx – Licensed under Eclipse Veil License v1.0"
+> "Original work by nginz for "eclipse-veil-license" – Licensed under Eclipse Veil License v1.0"
 
 6. **Modification Disclosure**  
 If you distribute modified versions, you must include a changelog or documentation explaining the modifications made.
@@ -43,13 +44,13 @@ All intellectual property rights remain with the original author. This license d
 The Software is provided "as is", without warranty of any kind. The author shall not be liable for any damages or liabilities arising from its use or misuse.
 
 10. **Governing Law**  
-This license shall be governed by and interpreted in accordance with the laws applicable in the jurisdiction of the original author (nzingx), unless otherwise agreed in writing.
+This license shall be governed by and interpreted in accordance with the laws applicable in the jurisdiction of the original author, unless otherwise agreed in writing.
 
 ---
 
 ## Classification
 
-This is a **source-available**, **non-commercial license**. It does **not** meet the criteria of Open Source as defined by the Open Source Initiative (OSI), due to its commercial use restriction.
+This is a **source-available**, **non-commercial license**. It does **not** meet the criteria of Open Source as defined by the [Open Source Initiative](https://opensource.org/osd), due to its commercial use restriction.
 
 ---
 
@@ -59,4 +60,8 @@ By using this Software, you confirm that you have read, understood, and agree to
 
 ---
 
-© 2025 nzingx. All rights reserved.
+© 2025 nginz for the project "eclipse-veil-license". All rights reserved.
+
+---
+License Hash (SHA-256):
+b2abef603b91872b6befc2c98d27723d18bd7141e842cf99c085df13e2b9860c
