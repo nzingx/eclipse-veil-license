@@ -1,6 +1,37 @@
 # Eclipse Veil License (EVL) v1.0
 
-A **source-available**, **non-commercial software license** created to ensure that software remains freely accessible and cannot be exploited commercially without permission.
+<div align="center">
+
+  <!-- Badge bar -->
+  <p>
+    <a href="./LICENSE.txt">
+      <img alt="License: EVL" src="https://img.shields.io/badge/license-EVL-blueviolet">
+    </a>
+    <img alt="Statements" src="https://img.shields.io/badge/statements-53.3%25-yellow.svg">
+    <img alt="Branches" src="https://img.shields.io/badge/branches-25%25-red.svg">
+    <img alt="Functions" src="https://img.shields.io/badge/functions-75%25-yellowgreen.svg">
+    <img alt="Lines" src="https://img.shields.io/badge/lines-53.3%25-yellow.svg">
+    <img alt="Build Status" src="https://github.com/nzingx/eclipse-veil-license/actions/workflows/test.yml/badge.svg">
+    <a href="https://www.npmjs.com/package/eclipse-veil-license">
+      <img alt="npm version" src="https://img.shields.io/npm/v/eclipse-veil-license.svg">
+    </a>
+    <a href="https://www.npmjs.com/package/eclipse-veil-license">
+      <img alt="npm downloads" src="https://img.shields.io/npm/dm/eclipse-veil-license.svg">
+    </a>
+    <a href="https://bundlephobia.com/package/eclipse-veil-license">
+      <img alt="bundle size" src="https://img.shields.io/bundlephobia/minzip/eclipse-veil-license">
+    </a>
+    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg">
+    <img alt="node version" src="https://img.shields.io/node/v/eclipse-veil-license">
+    <img alt="open issues" src="https://img.shields.io/github/issues/nzingx/eclipse-veil-license">
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/nzingx/eclipse-veil-license">
+  </p>
+
+</div>
+
+
+
+Eclipse Veil License (EVL) is a source-available software license focused on non-commercial distribution. It allows developers to freely share, modify, and distribute software while explicitly prohibiting any form of commercial exploitation. This license is ideal for personal, educational, nonprofit, and experimental projects where open collaboration is encouraged but monetization is not.
 
 ---
 
