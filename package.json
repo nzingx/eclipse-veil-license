@@ -27,7 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/nzingx/eclipse-veil-license.git"
   },
-  "license": "ISC",
+  "license": "EVL",
   "author": "nzingx",
   "type": "module",
   "main": "bin/index.js",
