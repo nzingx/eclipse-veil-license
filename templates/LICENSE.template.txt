@@ -1,6 +1,6 @@
 # Eclipse Veil License v1.0
 
-Copyright (c) {{year}} {{author}}{{projectBlock}}
+Copyright (c) {{year}} {{author}} {{projectBlock}}
 
 ---
 
@@ -29,7 +29,7 @@ Any distribution of this Software, whether original or modified, must be provide
 5. **Attribution Requirement**  
 All public distributions must include the following clear and visible attribution:
 
-> "Original work by {{author}}{{projectAttribution}} – Licensed under Eclipse Veil License v1.0"
+> "Original work by {{author}} {{projectBlock}} – Licensed under Eclipse Veil License v1.0"
 
 6. **Modification Disclosure**  
 If you distribute modified versions, you must include a changelog or documentation explaining the modifications made.
@@ -60,4 +60,4 @@ By using this Software, you confirm that you have read, understood, and agree to
 
 ---
 
-© {{year}} {{author}}{{projectBlock}}. All rights reserved.
+© {{year}} {{author}} {{projectBlock}}. All rights reserved.
